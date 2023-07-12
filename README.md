@@ -5,4 +5,9 @@
 ## GitHub Stats
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=rosenfence&show_icons=true&theme=buefy" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosenfence&layout=compact" alt="Top Langs">
 </p>
+
+![Rank](https://github-profile-trophy.vercel.app/?username=rosenfence&rank=S,A,B)
+  
+
